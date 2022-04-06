@@ -1,2 +1,1 @@
-# -my-profile
-using html &amp; CSS
+https://dhruvinkatakiya.github.io/-my-profile/
